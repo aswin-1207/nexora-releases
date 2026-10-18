@@ -1,0 +1,14 @@
+{
+  "version_code": 6,
+  "version_name": "1.0.5",
+  "min_supported_version_code": 6,
+  "is_mandatory": false,
+  "installer_url": "https://github.com/aswin-1207/nexora-releases/releases/download/v1.0.5/NEXUS-Setup-1.0.5.exe",
+  "installer_sha256": "2d8152ec390ee0049b812220be5dc566626793ca9dac074b3099493a2af5b98c",
+  "file_size_bytes": 101445632,
+  "jar_installer_url": "https://github.com/aswin-1207/nexora-releases/releases/download/v1.0.5/NEXUS-windows-x64-1.0.5.jar",
+  "jar_installer_sha256": "38e3f3e93b0914116aabd56e3428bc3452afc6d420dfa250c108b6f87ff63ba4",
+  "jar_file_size_bytes": 80184009,
+  "release_notes": "NEXUS Desktop for Windows (v1.0.5): Self-contained native Windows x64 .exe installer with bundled Java runtime, hardware acceleration, cross-platform Live Classroom presentation stage, display source selection, bidirectional screen sharing contract, Phoenix channel chat, attendance XP, Apache PDFBox MCQ importer, and 8 spatial themes.",
+  "is_published": true
+}
