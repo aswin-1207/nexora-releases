@@ -1,11 +1,11 @@
 {
-  "version_code": 7,
-  "version_name": "1.0.6",
+  "version_code": 8,
+  "version_name": "1.0.7",
   "min_supported_version_code": 1,
   "is_mandatory": false,
-  "release_notes": "NEXUS v1.0.6: Cross-platform Live Classroom WebRTC integration, real-time study sessions with Windows clients, living motion & interaction stability.",
-  "apk_url": "https://github.com/aswin-1207/nexora-releases/releases/download/v1.0.6/app-debug.apk",
-  "apk_sha256": "7c3e709ffc7eb90feba5712f2d4b06a68667b8a78c8cc7e31d06a507f286458e",
-  "file_size_bytes": 71356208,
+  "release_notes": "NEXUS v1.0.7: Cross-platform Android-Windows Live Classroom WebRTC participant synchronization, track-state propagation, video mute/unmute and reconnection stability.",
+  "apk_url": "https://github.com/aswin-1207/nexora-releases/releases/download/v1.0.7/app-debug.apk",
+  "apk_sha256": "4e9eee1c7cb9e9cb6456b00ebb916183054bebc8e44db0dc3b41c412f63fbc44",
+  "file_size_bytes": 71352112,
   "is_published": true
 }
