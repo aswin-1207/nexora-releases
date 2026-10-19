@@ -1,11 +1,11 @@
 {
-  "version_code": 6,
-  "version_name": "1.0.5",
+  "version_code": 7,
+  "version_name": "1.0.6",
   "min_supported_version_code": 1,
   "is_mandatory": false,
-  "release_notes": "NEXUS v1.0.5: Living Motion System, in-app update announcement, performance and accessibility enhancements.",
-  "apk_url": "https://github.com/aswin-1207/nexora-releases/releases/download/v1.0.5/app-debug.apk",
-  "apk_sha256": "eaf65b22ee79b9e0164544b4fe3150f150ae14838cb9b77751ff277296b0483a",
-  "file_size_bytes": 71352112,
+  "release_notes": "NEXUS v1.0.6: Cross-platform Live Classroom WebRTC integration, real-time study sessions with Windows clients, living motion & interaction stability.",
+  "apk_url": "https://github.com/aswin-1207/nexora-releases/releases/download/v1.0.6/app-debug.apk",
+  "apk_sha256": "7c3e709ffc7eb90feba5712f2d4b06a68667b8a78c8cc7e31d06a507f286458e",
+  "file_size_bytes": 71356208,
   "is_published": true
 }
